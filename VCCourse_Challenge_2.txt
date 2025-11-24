@@ -1,0 +1,4 @@
+This is for the Git Bash Submission Assignment
+
+This was added via the code in Git Bash:
+touch VCCourse_Challenge_2.txt
